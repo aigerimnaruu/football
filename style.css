@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+    width: 40px;
+}
+
+header {
+    background-color: pink;
+}
+
+.menu-item {
+    text-decoration: none;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+
